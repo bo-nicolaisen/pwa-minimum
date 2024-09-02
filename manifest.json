@@ -16,6 +16,11 @@
       "src": "/assets/img/logo.svg",
       "type": "image/svg+xml",
       "sizes": "128x128"
+    },
+    {
+      "src": "/assets/img/logo.svg",
+      "type": "image/svg+xml",
+      "sizes": "144x44"
     }
   ],
   "id": "/?source=pwa",
@@ -24,5 +29,5 @@
   "display": "fullscreen",
   "scope": "/",
   "theme_color": "#4BA598",
-  "description": "Weather forecast information"
+  "description": "PWA minimum app"
 }
