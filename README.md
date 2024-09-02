@@ -1,1 +1,1 @@
-# webboilerplate
+# PWA minimum
