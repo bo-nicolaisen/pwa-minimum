@@ -11,6 +11,11 @@
       "src": "/assets/img/logo.svg",
       "type": "image/svg+xml",
       "sizes": "192x192"
+    },
+    {
+      "src": "/assets/img/logo.svg",
+      "type": "image/svg+xml",
+      "sizes": "128x128"
     }
   ],
   "id": "/?source=pwa",
